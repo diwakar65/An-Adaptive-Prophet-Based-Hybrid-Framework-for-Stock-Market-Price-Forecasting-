@@ -1,0 +1,2 @@
+# An-Adaptive-Prophet-Based-Hybrid-Framework-for-Stock-Market-Price-Forecasting-
+An advanced stock market forecasting and portfolio optimization system using a Prophet-LSTM hybrid framework with volatility-aware modeling, technical analysis, risk management, and Monte Carlo simulation. This project improves stock price prediction accuracy and helps investors make better portfolio decisions through adaptive forecasting .
